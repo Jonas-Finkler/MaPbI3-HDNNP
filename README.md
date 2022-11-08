@@ -26,6 +26,6 @@ Such a bias is implemented in the example [7].
 [3] [https://www.uni-goettingen.de/de/560580.html]()  
 [4] [Flores-Livas, José A., et al. "Emergence of hidden phases of methylammonium lead iodide (CH 3 NH 3 PbI 3) upon compression." Physical Review Materials 2.8 (2018): 085201.](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.085201)   
 [5] [Finkler, Jonas A., and Stefan Goedecker. "Funnel hopping monte carlo: an efficient method to overcome broken ergodicity." The Journal of Chemical Physics 152.16 (2020): 164106.](https://aip.scitation.org/doi/full/10.1063/5.0004106)  
-[6] [https://github.com/Jonas-Finkler/High-Dimensional-Neural-Network-Potential)]()  
+[6] [https://github.com/Jonas-Finkler/High-Dimensional-Neural-Network-Potential]()  
 [7] [https://github.com/Jonas-Finkler/High-Dimensional-Neural-Network-Potential/tree/MaPbI3-example]()  
 [8] [https://github.com/CompPhysVienna/n2p2]()  
