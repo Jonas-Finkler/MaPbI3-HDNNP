@@ -1,5 +1,8 @@
 # MaPbI3-HDNNP
-High dimensional neural network potential [1,2] for MaPbI3. 
+High dimensional neural network potential [1,2] for MaPbI3.   
+The potential was developed for Funnel Hopping Monte Carlo study of MaPbI3 [9].
+Please cite this reference if you use this potential or the dataset. 
+
 
 The potential was trained with the RuNNer software [3] using energy and forces of structures from all three perovskite phases (orthorhombic, tetragonal, cubic) 
 as well as the two delta phases [4].
@@ -29,3 +32,4 @@ Such a bias is implemented in the example [7].
 [6] <https://github.com/Jonas-Finkler/High-Dimensional-Neural-Network-Potential>   
 [7] <https://github.com/Jonas-Finkler/High-Dimensional-Neural-Network-Potential/tree/MaPbI3-example>   
 [8] <https://github.com/CompPhysVienna/n2p2>   
+[9] [Finkler, Jonas A., and Stefan Goedecker. "Experimental Absence of the Non-Perovskite Ground State Phases of MaPbI3 Explained by a Funnel Hopping Monte Carlo Study Based on a Neural Network Potential." Materials Advances (2023).](https://doi.org/10.1039/D2MA00958G)
